@@ -9,7 +9,7 @@
 .navbar {
   background-color: white;
   padding: 20px 15px 25px 25px;
-  border-top: 10px solid #4d0aa4;
+  border-top: 10px solid #4d0aa4 ;
   width: 75%;
   margin: 30px auto;
   display: flex;
@@ -80,7 +80,7 @@
   width: 50%;
 }
 .left-sec img {
-  width: 80%;
+  width: 90%;
 }
 /* .section-3{
 
