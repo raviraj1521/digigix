@@ -40,7 +40,7 @@
 /* .navbar-right p{
   text-decoration: none; */
 /* } */
-.navbar-right-item{
+.navbar-right-item a{
   text-decoration: none;
   color: black ;
 }
