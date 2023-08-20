@@ -53,6 +53,7 @@
 
 .right-sec {
   width: 50%;
+  margin-left: 170px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -78,6 +79,7 @@
 }
 .left-sec {
   width: 50%;
+  margin-right: 170px;
 }
 .left-sec img {
   width: 100%;
