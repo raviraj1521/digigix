@@ -79,11 +79,11 @@
 }
 .left-sec {
   width: 50%;
-  /* margin-right: 170px; */
+  margin-right: 170px;
 }
 .left-sec img {
   width: 100%;
-  margin-right: 170px;
+  /* margin-right: 170px; */
 }
 /* .section-3{
 
